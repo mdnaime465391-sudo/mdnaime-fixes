@@ -1,0 +1,9 @@
+.git
+.github
+.DS_Store
+storage/logs/*.log
+storage/framework/sessions/*
+storage/framework/views/*
+storage/framework/cache/data/*
+*.sqlite
+*.sqlite-journal
